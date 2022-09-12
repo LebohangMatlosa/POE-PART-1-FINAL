@@ -1,0 +1,10 @@
+C:\Users\Leboh\source\repos\GADE POE PART 1\bin\Debug\GADE POE PART 1.exe.config
+C:\Users\Leboh\source\repos\GADE POE PART 1\bin\Debug\GADE POE PART 1.exe
+C:\Users\Leboh\source\repos\GADE POE PART 1\bin\Debug\GADE POE PART 1.pdb
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE POE PART 1.csproj.AssemblyReference.cache
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE_POE_PART_1.Form1.resources
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE_POE_PART_1.Properties.Resources.resources
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE POE PART 1.csproj.GenerateResource.cache
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE POE PART 1.csproj.CoreCompileInputs.cache
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE POE PART 1.exe
+C:\Users\Leboh\source\repos\GADE POE PART 1\obj\Debug\GADE POE PART 1.pdb
